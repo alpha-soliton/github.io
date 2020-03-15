@@ -1,0 +1,46 @@
+/* page */
+.page-title{
+    text-align: left;
+    font-size: 30px;
+    color: blue;
+}
+
+.page-content{
+    font-size: 20px;
+    color: #505050;
+    line-height: 150%;
+}
+
+/* projects */
+.project-card {
+    min-width: 0;
+    padding: 1.25rem;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 2px solid rgba(0,0,0,0.5);
+    border-radius: .8rem;
+    margin-bottom: 10px;
+}
+
+.project-title{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.project-list {
+    /*padding-left: 0;*/
+    font-size: 16px;
+    /*list-style: none;*/
+}
+
+.project-img {
+    vertical-align: middle;
+    horizontal-align: middle;
+    width: 100%;
+}
+
+.project-desc {
+    font-size: 18px;
+}
